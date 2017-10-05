@@ -1,4 +1,2 @@
 # TheLemonPressStyleGuide
-Style Guide for The Lemon Press at the University of York
-
-Yep.
+A style guide for _The Lemon Press_ at the _University of York_.
