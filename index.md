@@ -1,17 +1,19 @@
-    Lemon Press Style Guide
-    Version: 0.5 (Consultation Version)
-    Date: 23/04/16
+    The Lemon Press Style Guide
+    Version: 1.4
+    Date: 20/05/17
     Authors: Taghreed Ayaz, Henry Dyer
 
 The following is a guide, and not a set of rules. If necessary these suggestions can be set aside for creative purposes; for instance, attempting to imitate a particular style. Please, however, ensure your section editor has a sense of humour — make it obvious it is for comedic purposes, and not human error.
 
 * The most important thing is consistency. Pick a rule and stick to it.
-* Use the Oxford comma. It removes ambiguity.
+* Use the Oxford comma. It removes ambiguity. Do not, however, insert it into names for things if not there in the first place.
     - DO: At the dinner party I will serve: quinoa, organic barley wine, and dessicated salmon.
     - DO: My parents, Koen Lamberts, and Malcolm Grant came to my graduation.
+    - DO: The Department of Culture, Media and Sport
     - DON’T: At the dinner party I will serve: quinoa, organic barley wine and dessicated salmon. 
     - DON’T: My parents, Koen Lamberts and Malcolm Grant came to my graduation. 
         - This would suggest Koen and Malcolm are your parents.
+    - DON'T: The Department of Culture, Media, and Sport    
 * Only use titles when relevant to the article, e.g. Dr Whomever.
 * Single quotation marks to be used for all reported speech and as ‘scare quotes’ to highlight a particular phrase.
     - Embedded quotations don’t need to have commas before the quotation opens.
@@ -37,6 +39,14 @@ The following is a guide, and not a set of rules. If necessary these suggestions
         + DO: YUSU have disbanded.
     - DON’T: The TUC today decided to [...]
     - DON’T: York University Students’ Union have disbanded.
-* Don’t capitalise professions; do capitalise positions.
-    - DO:  The Chancellor of the Galactic Republic today declared a state of emergency.
-    - DON’T: The chancellor of the galactic republic today declared a state of emergency.
+* Don’t capitalise professions; do capitalise positions, but only when being used as a title, or as replacement for the name. Otherwise, lowercase.
+    - DO: The President today declared a state of emergency.
+    - DO: The President of the United States is a title.
+    - DO: Go President Jeb Bush! Jeb Bush for president!
+    - DO: The 45th and current president — he's not my president. I wanted Jeb Bush to be president.
+    - DON’T: The president declared a state of emergency.
+    - DON'T: The president of the United States is a title.
+    - DON'T: Go president Jeb Bush! Jeb Bush for President!
+    - DON'T: The 45th and current President - he's not my President. I wanted Jeb Bush to be President.
+* Editor's notes are to be formatted as: [content in italics surrounded by square brackets - Ed.]
+* Italicise the names of publications and brands, e.g. _The Lemon Press_, _Nouse_, _York Vision_, and _Facebook_. If the surrounding text is already italicised, such as in a image caption, then do the reverse. Ask if in doubt.
