@@ -50,3 +50,6 @@ The following is a guide, and not a set of rules. If necessary these suggestions
     - DON'T: The 45th and current President - he's not my President. I wanted Jeb Bush to be President.
 * Editor's notes are to be formatted as: [content in italics surrounded by square brackets - Ed.]
 * Italicise the names of publications and brands, e.g. _The Lemon Press_, _Nouse_, _York Vision_, and _Facebook_. If the surrounding text is already italicised, such as in a image caption, then do the reverse. Ask if in doubt.
+* Lay-up notes:
+    - Start the height of articles at 23mm from the top of the template. This can be specified using the 'Properties' window of Scribus.
+    - No spaces between headlines and first paragraph.
