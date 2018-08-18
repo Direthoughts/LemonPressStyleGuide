@@ -1,6 +1,6 @@
     The Lemon Press Style Guide
-    Version: 1.4
-    Date: 20/05/17
+    Version: 1.41
+    Date: 18/08/18
     Authors: Taghreed Ayaz, Henry Dyer
 
 The following is a guide, and not a set of rules. If necessary these suggestions can be set aside for creative purposes; for instance, attempting to imitate a particular style. Please, however, ensure your section editor has a sense of humour — make it obvious it is for comedic purposes, and not human error.
@@ -48,7 +48,7 @@ The following is a guide, and not a set of rules. If necessary these suggestions
     - DON'T: The president of the United States is a title.
     - DON'T: Go president Jeb Bush! Jeb Bush for President!
     - DON'T: The 45th and current President - he's not my President. I wanted Jeb Bush to be President.
-* Editor's notes are to be formatted as: [content in italics surrounded by square brackets - Ed.]
+* Editor's notes are to be formatted as: [_content in italics surrounded by square brackets_ - Ed.]
 * Italicise the titles of publications, e.g. _The Lemon Press_, _Nouse_, _York Vision_, and _Facebook_. If the surrounding text is already italicised, such as in a image caption, then do the reverse. Ask if in doubt.
 * Lay-up notes:
     - Start the height of articles at 23mm from the top of the template. This can be specified using the 'Properties' window of Scribus.
