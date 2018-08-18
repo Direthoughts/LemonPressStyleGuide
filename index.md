@@ -25,7 +25,7 @@ The following is a guide, and not a set of rules. If necessary these suggestions
         + DON’T: The group issued a statement saying, ‘We find this situation absolutely abhorrent’.
         + DON’T: The group described it as ‘abhorrent.’
 * Headlines.
-    * Capitalise the first letter of the headline, and then any other significant words. Do not capitalise articles and conjunctions. Use default from https://capitalizemytitle.com if in doubt.
+    * Capitalise the first letter of the headline, and then any other significant words. Do not capitalise articles and conjunctions. Use default from [here](https://capitalizemytitle.com) if in doubt.
         + DO: Group of Grumpy Students Align with Nazi Party
         + DON’T: Group Of Grumpy Students Align With Nazi Party
         + DON’T: Group of grumpy students align with nazi party
