@@ -1,7 +1,7 @@
     The Lemon Press Style Guide
-    Version: 1.41
-    Date: 18/08/18
-    Authors: Taghreed Ayaz, Henry Dyer
+    Version: 1.42
+    Date: 28/10/18
+    Authors: Taghreed Ayaz, Henry Dyer, Lucy Purkis Charters, and Oli Maddison
 
 The following is a guide, and not a set of rules. If necessary these suggestions can be set aside for creative purposes; for instance, attempting to imitate a particular style. Please, however, ensure your section editor has a sense of humour — make it obvious it is for comedic purposes, and not human error.
 
