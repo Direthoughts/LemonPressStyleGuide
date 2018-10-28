@@ -7,10 +7,10 @@ The following is a guide, and not a set of rules. If necessary these suggestions
 
 * The most important thing is consistency. Pick a rule and stick to it.
 * Use the Oxford comma. It removes ambiguity. Do not, however, insert it into names for things if not there in the first place.
-    - DO: At the dinner party I will serve: quinoa, organic barley wine, and dessicated salmon.
+    - DO: At the dinner party I will serve: quinoa, organic barley wine, and desiccated salmon.
     - DO: My parents, Koen Lamberts, and Malcolm Grant came to my graduation.
     - DO: The Department of Culture, Media and Sport
-    - DON’T: At the dinner party I will serve: quinoa, organic barley wine and dessicated salmon. 
+    - DON’T: At the dinner party I will serve: quinoa, organic barley wine and desiccated salmon. 
     - DON’T: My parents, Koen Lamberts and Malcolm Grant came to my graduation. 
         - This would suggest Koen and Malcolm are your parents.
     - DON'T: The Department of Culture, Media, and Sport    
